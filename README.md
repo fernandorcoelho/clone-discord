@@ -5,10 +5,8 @@ UI Clone - Discord
 <p align="center">Discord UI Clone (partial) for study purposes.</p>
 <p align="center">Deployed <a href="https://clone-discord-three.vercel.app/">here</a>.</p>
 
-<p align="center">
 ![GitHub top language](https://img.shields.io/github/languages/count/fernandorcoelho/nlw_omni_web) 
 ![GitHub top language](https://img.shields.io/github/languages/top/fernandorcoelho/nlw_omni_web) ![GitHub last commit](https://img.shields.io/github/last-commit/fernandorcoelho/nlw_omni_web) ![GitHub repo size](https://img.shields.io/github/repo-size/fernandorcoelho/nlw_omni_web)
-</p>
 
 <hr>
 
