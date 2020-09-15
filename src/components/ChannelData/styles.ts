@@ -61,6 +61,7 @@ export const Input = styled.input`
     top: -50%;
     left: 14px;
     transition: 180ms ease-in-out;
+    transform: translateY(-140%);
   }
 `;
 
