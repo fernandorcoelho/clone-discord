@@ -6,12 +6,8 @@ UI Clone - Discord
 <p align="center">Deployed <a href="https://clone-discord-three.vercel.app/">here</a>.</p>
 
 <p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-discord/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-discord?color=%237159c1&logo=mit" alt="License">
-  </a>
+  ![GitHub top language](https://img.shields.io/github/languages/count/fernandorcoelho/nlw_omni_web) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/fernandorcoelho/nlw_omni_web) ![GitHub last commit](https://img.shields.io/github/last-commit/fernandorcoelho/nlw_omni_web) ![GitHub repo size](https://img.shields.io/github/repo-size/fernandorcoelho/nlw_omni_web)
 </p>
 
 <hr>
